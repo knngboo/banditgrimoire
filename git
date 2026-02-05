@@ -1,0 +1,11 @@
+git init
+git status
+git add [FILENAME]
+git add .
+git commit -m "[MESSAGE]"
+git commit
+git config --global init.defaultBranch
+git config --global init.defaultBranch [NAME]
+git remote add origin git@github.com:[USER]/[REPONAME].git
+git branch -M [NAME]
+git push -u origin main
