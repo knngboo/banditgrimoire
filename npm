@@ -3,3 +3,4 @@ npm run dev
 npm audit fix --force
 npm audit
 npm outdated
+npm ls --depth=0
